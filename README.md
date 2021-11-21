@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Behzad Ahmad AliNezhad
+- 👋 Hi, my name is Behzad Ahmad AliNezhad
 - 👀 I’m interested in Mobile Apps Development particularly Flutter and Dart
 - 📫 How to reach me  : Behalinejad@gmail.com
 
